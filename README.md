@@ -90,9 +90,9 @@ Minerva.html
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
- 1)Minerva Group of Hotels and Restaurants. Being a boutique business hotels & restaurants chain,it strides on
-to break new grounds with its state-of-the-art conveniences, distinct services and fine dining
-familiarities.<br>
+ 1)Minerva Group of Hotels and Restaurants. Being a boutique business hotels & restaurants chain,it
+strides on to break new grounds with its state-of-the-art conveniences, distinct services and fine
+dining familiarities.<br>
 2)Our Dining
 Indulge in a culinary journey that delights the senses and captures the essence of BLUE FOX .
 Our expert chefs have meticulously crafted a menu that showcases the finest ingredients,
@@ -116,10 +116,11 @@ Narayana.html
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
- 1)Narayana Medical College is located in Muthukur Road, Chinthareddypalem, Nellore, Andhra Pradesh 524003<br>
-2)Narayana Medical College & Hospital is in alliance with corporate partners in delivering healthcare to their
-employee.Narayana Medical College & Hospital provides health care to several large and small Public Sectors and
-Private Sectors. <br>
+ 1)Narayana Medical College is located in Muthukur Road, Chinthareddypalem, Nellore,
+ Andhra Pradesh 524003<br>
+2)Narayana Medical College & Hospital is in alliance with corporate partners in delivering healthcare
+to their employee.Narayana Medical College & Hospital provides health care to several large and
+small Public Sectors and Private Sectors. <br>
 </p>
 </body>
 </html>
@@ -140,8 +141,8 @@ Swagath.html
 <font face="Georgia" size="5">
  1)Hotel Swagath is located near Nehru Mansions, Grand Trunk Road, Near Madras Bus Stand, Somasekara Puram,
 Nellore, Andhra Pradesh · 078422 33344<br>
-2) HOtel swagath Being a boutique business hotels & restaurants chain, it strides on to break new grounds
-with its state-of-the-art conveniences, distinct services and fine dining familiarities. <br>
+2) HOtel swagath Being a boutique business hotels & restaurants chain, it strides on to break new
+grounds with its state-of-the-art conveniences, distinct services and fine dining familiarities. <br>
 </p>
 </body>
 </html>
