@@ -39,11 +39,16 @@ map.html
         <img src="nellore.png" usemap="#image-map">
 
         <map name="image-map">
-            <area target="" alt="Hotel Minerva Grand" title="Hotel Minerva Grand" href="minerva.html" coords="652,440,892,496" shape="rect">
-            <area target="" alt="Narayana Medical College" title="Narayana Medical College" href="narayana.html" coords="1307,569,1153,573,1167,648,1312,648" shape="poly">
-            <area target="" alt="Sri Raja Rajeswari Temple" title="Sri Raja Rajeswari Temple" href="temple.html" coords="544,676,374,645" shape="rect">
-            <area target="" alt="Hotel Swagath" title="Hotel Swagath" href="swagath.html" coords="840,280,978,325" shape="rect">
-            <area target="" alt="Reliance Digital" title="Reliance Digital" href="reliance.html" coords="758,375,80" shape="circle">
+            <area target="" alt="Hotel Minerva Grand" title="Hotel Minerva Grand"
+            href="minerva.html" coords="652,440,892,496" shape="rect">
+            <area target="" alt="Narayana Medical College" title="Narayana Medical College"
+            href="narayana.html" coords="1307,569,1153,573,1167,648,1312,648" shape="poly">
+            <area target="" alt="Sri Raja Rajeswari Temple" title="Sri Raja Rajeswari Temple"
+            href="temple.html" coords="544,676,374,645" shape="rect">
+            <area target="" alt="Hotel Swagath" title="Hotel Swagath"
+            href="swagath.html" coords="840,280,978,325" shape="rect">
+            <area target="" alt="Reliance Digital" title="Reliance Digital"
+            href="reliance.html" coords="758,375,80" shape="circle">
         </center>
         </map>
     </body>
@@ -63,8 +68,10 @@ reliance.html
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
- 1)Reliance Digital is located near Police Office Road, Opposite Reliance Mart, Brahmananda Puram, Nellore, Andhra Pradesh 524001<br>
-2) Reliance Digital is India's largest electronics retailer, having 500+ large format stores across India. The brand offers 5,000+ products from 300+ international and national brands.<br>
+ 1)Reliance Digital is located near Police Office Road, Opposite Reliance Mart,
+ Brahmananda Puram, Nellore, Andhra Pradesh 524001<br>
+2) Reliance Digital is India's largest electronics retailer, having 500+ large format stores across India.
+The brand offers 5,000+ products from 300+ international and national brands.<br>
 </p>
 </body>
 </html>
@@ -83,9 +90,12 @@ Minerva.html
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
- 1)Minerva Group of Hotels and Restaurants. Being a boutique business hotels & restaurants chain, it strides on to break new grounds with its state-of-the-art conveniences, distinct services and fine dining familiarities.<br>
+ 1)Minerva Group of Hotels and Restaurants. Being a boutique business hotels & restaurants chain,it
+strides on to break new grounds with its state-of-the-art conveniences, distinct services and fine dining familiarities.<br>
 2)Our Dining
-Indulge in a culinary journey that delights the senses and captures the essence of BLUE FOX . Our expert chefs have meticulously crafted a menu that showcases the finest ingredients, innovative flavors, and exquisite presentations.<br>
+Indulge in a culinary journey that delights the senses and captures the essence of BLUE FOX .
+Our expert chefs have meticulously crafted a menu that showcases the finest ingredients, innovative flavors,
+ and exquisite presentations.<br>
 3)It is located in Grand Trunk Road, Nellore - 0861 235 8888.<br>
 </p>
 </body>
@@ -106,7 +116,8 @@ Narayana.html
 <p align="center">
 <font face="Georgia" size="5">
  1)Narayana Medical College is located in Muthukur Road, Chinthareddypalem, Nellore, Andhra Pradesh 524003<br>
-2)Narayana Medical College & Hospital is in alliance with corporate partners in delivering health care to their employee. Narayana Medical College & Hospital provides health care to several large and small Public Sectors and Private Sectors. <br>
+2)Narayana Medical College & Hospital is in alliance with corporate partners in delivering healthcare to their employee.
+Narayana Medical College & Hospital provides health care to several large and small Public Sectors and Private Sectors. <br>
 </p>
 </body>
 </html>
@@ -125,8 +136,10 @@ Swagath.html
 <hr size="3" color="white">
 <p align="center">
 <font face="Georgia" size="5">
- 1)Hotel Swagath is located near Nehru Mansions, Grand Trunk Road, Near Madras Bus Stand, Somasekara Puram, Nellore, Andhra Pradesh · 078422 33344<br>
-2) HOtel swagath Being a boutique business hotels & restaurants chain, it strides on to break new grounds with its state-of-the-art conveniences, distinct services and fine dining familiarities. <br>
+ 1)Hotel Swagath is located near Nehru Mansions, Grand Trunk Road, Near Madras Bus Stand, Somasekara Puram,
+Nellore, Andhra Pradesh · 078422 33344<br>
+2) HOtel swagath Being a boutique business hotels & restaurants chain, it strides on to break new grounds
+with its state-of-the-art conveniences, distinct services and fine dining familiarities. <br>
 </p>
 </body>
 </html>
@@ -146,8 +159,10 @@ temple.html
 <p align="center">
 <font face="Georgia" size="5">
  1)Sri Rajarajeswari Temple is located vedaypalem,nellore,andrapraddesh-524302<br>
-2)Sri Raja Rajeshwari Temple in Durgamitta is a very famous Ammavari temple located at Durgamitta in Nellore district, Andhra Pradesh.  <br>
-3)The presiding deity in this temple is Sri Rajarajeswari Ammavaru. Devi Navaratrulu (Dussera) is the most festival celebrated in this temple.<br>
+2)Sri Raja Rajeshwari Temple in Durgamitta is a very famous Ammavari temple located at
+Durgamitta in Nellore district, Andhra Pradesh.  <br>
+3)The presiding deity in this temple is Sri Rajarajeswari Ammavaru. Devi Navaratrulu
+(Dussera) is the most festival celebrated in this temple.<br>
 </p>
 </body>
 </html>
